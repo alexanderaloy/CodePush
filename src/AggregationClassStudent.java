@@ -6,8 +6,9 @@ public class AggregationClassStudent {
 	int rollno;
 	void studentdata() {
 	name = "Alex";
-	rollno = 5;
+	rollno = 6;
 	//sub = new AggregationClassSubject();
+	
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
